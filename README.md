@@ -5,4 +5,4 @@ For creating .m4a to .wav.
 
 ### Note:
 
-This is for the projects Speech To Text and Speech To Text (Large Audio Files), if having difficulty producing .wav audio files.
+This is for the projects Speech to Text and Speech to Text (Large Audio Files), if having difficulty producing .wav audio files.
